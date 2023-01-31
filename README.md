@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Java & C#<br>🌱 I’m currently learning Advanced Database Management Systems<br>💬 Ask me about manga/manwha<br>⚡ Fun fact, I listen to almost any type of music
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedasimavutmuslu/) 
 
